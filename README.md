@@ -1,15 +1,10 @@
-# YouTube and Blog Post Code Examples
+### SmartConvert FX – Currency Converter
 
-In this repository is a collection of code examples I used in my YouTube videos and blog posts. You are free to download and use them as you see fit.
+A powerful, real-time **Currency Converter** built with **Python** and a fully customizable **Tkinter GUI**. This app fetches live exchange rates using the [FreeCurrencyAPI](https://freecurrencyapi.com/) and provides instant conversion between global currencies.
 
-## Links to Code Examples and Projects
+> Built for simplicity. Designed for accuracy.  
+> Real-time API. Offline-safe UI.  
+> Modern GUI using 'CustomTkinter' & 'Pillow'.
 
-### Code Examples
-
-* [Python Dates and Time Examples](/python/dates-time) - This contains both the code examples and the time zone spreadsheet that were used in the video and blog post
-* [Python Terminal Output Colour](/python/terminal-output-colour) - This contains both the code examples and the time zone spreadsheet that were used in the video and blog post
-
-### Projects
-
-* [Python Currency Converter](/python/currency-converter) - This is the code for a simple currency converter that uses customTKinter to build the user interface
-* [Python QR Code Generator](/python/qr-code-generator) - This is the code for a QR code generator program that uses customTKinter to build the user interface
+## Preview
+![Screenshot 2025-06-12 213327](https://github.com/user-attachments/assets/3de27ec7-a2e8-4c40-9db7-878acaafff65)
