@@ -83,6 +83,16 @@ We use [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch the latest rates
 
 https://github.com/user-attachments/assets/b8c9c009-d4a7-4c81-81c3-3088982f68b0
 
+---
+
+### Screenshots
+
+---
+## Currency Converter tab
+
+![image](https://github.com/user-attachments/assets/9fbdd93a-9f8a-4b58-812e-378b568994da)
+
+
 
 
 
