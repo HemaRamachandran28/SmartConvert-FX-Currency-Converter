@@ -57,8 +57,7 @@ The application helps users:
 
 We use [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch the latest rates. The base URL looks like:
 
-"http
-https://api.freecurrencyapi.com/v1/latest?apikey=YOUR_API_KEY&base_currency=USD"
+"https://api.freecurrencyapi.com/v1/latest?apikey=YOUR_API_KEY&base_currency=USD"
 
 ---
 
