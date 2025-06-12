@@ -4,7 +4,7 @@
 
 ---
 
-## What does the program do?
+## What does the program do? 
 
 The application helps users:
 - Convert any supported currency to another
