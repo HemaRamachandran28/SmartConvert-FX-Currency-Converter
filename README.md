@@ -155,18 +155,18 @@ This project is licensed under the MIT License.
 
 ## Requirements
 
-certifi==2025.1.31
-charset-normalizer==3.4.1
-customtkinter==5.2.2
-darkdetect==0.8.0
-everapi==0.1.1
-freecurrencyapi==0.1.0
-idna==3.10
-packaging==24.2
-pillow==11.1.0
-python-dotenv==1.0.1
-requests==2.32.3
-urllib3==2.3.0
+-certifi==2025.1.31
+-charset-normalizer==3.4.1
+-customtkinter==5.2.2
+-darkdetect==0.8.0
+-everapi==0.1.1
+-freecurrencyapi==0.1.0
+-idna==3.10
+-packaging==24.2
+-pillow==11.1.0
+-python-dotenv==1.0.1
+-requests==2.32.3
+-urllib3==2.3.0
 
 ---
 
@@ -174,6 +174,7 @@ urllib3==2.3.0
 
 If you like this project, please Star it on GitHub! Contributions and feedback are welcome.
 
+---
 
 
 
