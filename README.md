@@ -72,19 +72,19 @@ We use [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch the latest rates
 
 ## Features
 
--Real-time currency conversion
--Dark-themed, responsive GUI
--Secure API key management
--Modular code structure
--Input validation and error handling
+- Real-time currency conversion
+- Dark-themed, responsive GUI
+- Secure API key management
+- Modular code structure
+- Input validation and error handling
 
 ---
 
  ## Possible Enhancements
--Add currency rate history chart using Matplotlib
--Support for offline fallback with cached last known rates
--Add theme switching (light/dark)
--Include a conversion history log in GUI
+- Add currency rate history chart using Matplotlib
+- Support for offline fallback with cached last known rates
+- Add theme switching (light/dark)
+- Include a conversion history log in GUI
 
 ---
 
@@ -114,8 +114,8 @@ https://github.com/user-attachments/assets/b8c9c009-d4a7-4c81-81c3-3088982f68b0
 ---
 
 ## Invalid Input: Non-numeric Characters
--Description: Displayed when the user enters alphabets or special characters instead of numbers.
--Example: Input = abc, @#%.
+- Description: Displayed when the user enters alphabets or special characters instead of numbers.
+- Example: Input = abc, @#%.
 
 ![Screenshot 2025-06-12 213612](https://github.com/user-attachments/assets/eefe4296-b229-4267-b20a-fad4aa0a43fc)
 
@@ -123,8 +123,8 @@ https://github.com/user-attachments/assets/b8c9c009-d4a7-4c81-81c3-3088982f68b0
 
 ##  Invalid Input: Characters with Operators
 
--Description: Displayed when the user enters a mix of characters and operators.
--Example: 12+abc, --10.
+- Description: Displayed when the user enters a mix of characters and operators.
+- Example: 12+abc, --10.
 
 ![Screenshot 2025-06-12 213730](https://github.com/user-attachments/assets/14b6f4bf-67a3-4946-bf38-7d6490fd01cb)
 
@@ -141,8 +141,8 @@ https://github.com/user-attachments/assets/b8c9c009-d4a7-4c81-81c3-3088982f68b0
 
 ## Logical Error: Same 'From' and 'To' Currencies
 
--Description: Prevents conversion when the source and target currencies are identical.
--Example: From = USD, To = USD.
+- Description: Prevents conversion when the source and target currencies are identical.
+- Example: From = USD, To = USD.
 
 ![Screenshot 2025-06-12 213937](https://github.com/user-attachments/assets/cb821d69-4dcd-4a06-940a-88f821e436e6)
 
