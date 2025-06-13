@@ -38,7 +38,6 @@ The application helps users:
 
 ---
 
-Get real-time results displayed instantly
 ## Functional Modules
 
 ### Currency Converter
