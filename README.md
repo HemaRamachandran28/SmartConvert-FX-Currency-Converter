@@ -31,10 +31,10 @@ The application helps users:
 ---
 
 ## Usage Guide
--Enter an amount
--Select "From" and "To" currencies
--Click Convert
--Get real-time results displayed instantly
+- Enter an amount
+- Select "From" and "To" currencies
+- Click Convert
+- Get real-time results displayed instantly
 
 ---
 
@@ -132,8 +132,8 @@ https://github.com/user-attachments/assets/b8c9c009-d4a7-4c81-81c3-3088982f68b0
 
 ## Invalid Input: Negative Amount
 
--Description: Negative values are not allowed for currency conversion.
--Example: Input = -100.
+- Description: Negative values are not allowed for currency conversion.
+- Example: Input = -100.
 
 ![Screenshot 2025-06-12 213833](https://github.com/user-attachments/assets/31b48add-31b2-41ca-9265-f3b4f4e1ea1e)
 
